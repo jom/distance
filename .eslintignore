@@ -1,0 +1,7 @@
+.vscode
+assets/
+bin/
+build/
+docs/
+public/
+!.eslintrc.js
